@@ -141,11 +141,11 @@ python-exercicios/
 * [x] Exercício 03 — Média
 * [x] Exercício 04 — Contagem
 * [x] Exercício 05 — Tabuada
-* [ ] Exercício 06 — Somatório
-* [ ] Exercício 07 — Maior e menor
-* [ ] Exercício 08 — Lista de nomes
-* [ ] Exercício 09 — Contador de vogais
-* [ ] Exercício 10 — Inverter texto
+* [x] Exercício 06 — Somatório
+* [x] Exercício 07 — Maior e menor
+* [x] Exercício 08 — Lista de nomes
+* [x] Exercício 09 — Contador de vogais
+* [x] Exercício 10 — Inverter texto
 * [ ] Exercício 11 — Calculadora
 * [ ] Exercício 12 — Verificador de senha
 * [ ] Exercício 13 — Palíndromo
